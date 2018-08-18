@@ -1,4 +1,4 @@
-## Welcome to Bluewhale's Home
+## Bluewhale's Home
 虚无之境
 
 You can use the [editor on GitHub](https://github.com/beihu/beihu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
